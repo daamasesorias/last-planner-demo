@@ -1,0 +1,22 @@
+Semana,Actividad,Nivel,Responsable,Meta,Cumplimiento,CNC,Observación
+S01,Excavación sector A,Fundaciones,Jefe Terreno,450 m3,Sí,,Completado
+S01,Excavación sector B,Fundaciones,Jefe Terreno,350 m3,No,Equipo,Falla excavadora
+S01,Sello fundación,Fundaciones,Jefe Terreno,600 m2,Sí,,Completado
+S02,Emplantillado sector A,Fundaciones,Jefe Terreno,300 m2,Sí,,Completado
+S02,Armadura zapatas eje 1-4,Fundaciones,Capataz Enfierradura,8 un,Sí,,Completado
+S02,Armadura zapatas eje 5-8,Fundaciones,Capataz Enfierradura,8 un,No,Materiales,Acero incompleto
+S03,Hormigonado zapatas eje 1-4,Fundaciones,Jefe Terreno,8 un,Sí,,Completado
+S03,Hormigonado zapatas eje 5-8,Fundaciones,Jefe Terreno,8 un,Sí,,Completado
+S03,Arranques pilares Piso 1,Piso 1,Capataz Enfierradura,12 un,No,Predecesora,Atraso fundaciones
+S04,Pilares Piso 1 sector A,Piso 1,Jefe Terreno,10 un,Sí,,Completado
+S04,Muros Piso 1 sector A,Piso 1,Jefe Terreno,65 m2,Sí,,Completado
+S04,Pilares Piso 1 sector B,Piso 1,Jefe Terreno,8 un,No,Mano de obra,Cuadrilla incompleta
+S05,Moldaje losa Piso 2,Piso 1,Jefe Terreno,520 m2,Sí,,Completado
+S05,Enfierradura losa Piso 2,Piso 1,Capataz Enfierradura,520 m2,Sí,,Completado
+S05,Pasadas sanitarias losa Piso 2,Piso 1,JOT,100 %,No,Ingeniería,Cambio de trazado
+S06,Hormigonado losa Piso 2,Piso 1,Jefe Terreno,520 m2,Sí,,Completado
+S06,Pilares Piso 2 sector A,Piso 2,Jefe Terreno,10 un,Sí,,Completado
+S06,Muros Piso 2 sector A,Piso 2,Jefe Terreno,70 m2,Sí,,Completado
+S06,Escalera tramo 1-2,Piso 1,Jefe Terreno,1 tramo,No,Recursos,Moldaje especial incompleto
+S06,Pasadas eléctricas Piso 2,Piso 1,JOT,100 %,Sí,,Completado
+S06,Descimbre losa Piso 2,Piso 1,Jefe Terreno,100 %,Sí,,Completado

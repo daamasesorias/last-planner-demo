@@ -1,0 +1,13 @@
+ID,Actividad,Nivel,Especialidad,Responsable,S01,S02,S03,S04,S05,S06
+1,Excavación y sello,Fundaciones,Obra Gruesa,Jefe Terreno,Plan,,,,,
+2,Emplantillado,Fundaciones,Obra Gruesa,Jefe Terreno,Plan,Plan,,,,
+3,Armadura fundaciones,Fundaciones,Enfierradura,Capataz Enfierradura,,Plan,Plan,,,
+4,Hormigonado fundaciones,Fundaciones,Hormigón,Jefe Terreno,,,Plan,Plan,,
+5,Pilares y muros Piso 1,Piso 1,Obra Gruesa,Jefe Terreno,,,Plan,Plan,Plan,
+6,Losa Piso 2,Piso 1,Moldaje/Hormigón,Jefe Terreno,,,,Plan,Plan,
+7,Pilares y muros Piso 2,Piso 2,Obra Gruesa,Jefe Terreno,,,,,Plan,Plan
+8,Losa Piso 3,Piso 2,Moldaje/Hormigón,Jefe Terreno,,,,,,Plan
+9,Pilares y muros Piso 3,Piso 3,Obra Gruesa,Jefe Terreno,,,,,,Plan
+10,Pasadas sanitarias losa Piso 2,Piso 1,Sanitaria,JOT,,,,Plan,Plan,
+11,Pasadas eléctricas losa Piso 2,Piso 1,Eléctrica,JOT,,,,Plan,Plan,
+12,Escalera tramo 1-2,Piso 1,Obra Gruesa,Jefe Terreno,,,,,Plan,Plan

@@ -1,0 +1,9 @@
+ID,Actividad,Restricción,Tipo,Responsable,Fecha requerida,Estado,Observación
+R01,Losa Piso 2,Planos de pasadas sanitarias aprobados,Ingeniería,JOT,2026-09-01,Liberada,Aprobados
+R02,Losa Piso 2,Disponibilidad de moldaje,Recursos,Jefe Terreno,2026-09-02,Liberada,Moldaje en obra
+R03,Pilares y muros Piso 2,Acero A630 disponible,Materiales,Abastecimiento,2026-09-04,Pendiente,Entrega parcial
+R04,Pilares y muros Piso 2,Planos estructurales última revisión,Ingeniería,JOT,2026-09-03,Vencida,Pendiente RFI
+R05,Escalera tramo 1-2,Moldaje especial escalera,Recursos,Jefe Terreno,2026-09-05,En gestión,Fabricación en obra
+R06,Losa Piso 3,Pasadas eléctricas coordinadas,Coordinación,JOT,2026-09-08,Pendiente,Revisión MEP
+R07,Pilares y muros Piso 3,Acero de refuerzo,Materiales,Abastecimiento,2026-09-09,Pendiente,OC emitida
+R08,Losa Piso 3,Bomba de hormigón programada,Equipos,Jefe Terreno,2026-09-10,Liberada,Reserva confirmada
