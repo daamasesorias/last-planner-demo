@@ -1,0 +1,11 @@
+﻿ID,Obra,Actividad,Especialidad,Frente,Semana_Original,Semana_Actual,Responsable,Estado
+OB1-EST-025,Obra 1,Hormigonado losa Piso 2,Estructura,Piso 2,S10,S10,Jefe Terreno,Reprogramada
+OB1-EST-031,Obra 1,Pilares y muros Piso 3,Estructura,Piso 3,S11,S11,Jefe Terreno,Preparación
+OB1-ARQ-041,Obra 1,Tabiques Piso 1,Arquitectura,Piso 1,S10,S11,Jefe Terminaciones,Reprogramada
+OB1-INS-052,Obra 1,Red sanitaria Piso 2,Instalaciones,Piso 2,S12,S12,Jefe Instalaciones,Preparación
+OB2-EST-018,Obra 2,Enfierradura losa Piso 1,Estructura,Piso 1,S10,S10,Jefe Terreno,En ejecución
+OB2-EST-022,Obra 2,Hormigonado losa Piso 1,Estructura,Piso 1,S11,S11,Jefe Terreno,Preparación
+OB2-ARQ-033,Obra 2,Albañilería Piso 1,Arquitectura,Piso 1,S12,S12,Jefe Obra,Preparación
+OB3-MOV-006,Obra 3,Relleno estructural sector norte,Movimiento Tierra,Sector Norte,S10,S10,Jefe Terreno,En ejecución
+OB3-EST-011,Obra 3,Fundaciones eje A-D,Estructura,Fundaciones,S11,S11,Jefe Terreno,Preparación
+OB3-EST-015,Obra 3,Pedestales sector norte,Estructura,Fundaciones,S13,S13,Jefe Terreno,Preparación
