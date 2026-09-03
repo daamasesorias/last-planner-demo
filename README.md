@@ -1,6 +1,8 @@
-# Dashboard Digital Last Planner - Demo V2
+# Demo LPS - Una Obra
 
-Demo para 3 obras con 7 módulos:
+Ejemplo operacional de una sola obra para el Dashboard Digital Last Planner.
+
+Módulos:
 1. Resumen Ejecutivo
 2. Plan 6 Semanas
 3. Restricciones Plan 6 Semanas
@@ -9,6 +11,5 @@ Demo para 3 obras con 7 módulos:
 6. Arrastres y Reprogramación
 7. PPC / CNC
 
-## Actualizar la app existente
-Reemplazar `app.py` y `requirements.txt` en GitHub y reemplazar la carpeta `data` por la incluida en este paquete.
-Streamlit redeployará automáticamente al detectar el commit.
+Para actualizar la aplicación Streamlit existente, reemplazar app.py,
+requirements.txt y la carpeta data en el repositorio GitHub.

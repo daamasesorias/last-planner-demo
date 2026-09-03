@@ -1,7 +1,7 @@
-﻿ID,Obra,Actividad,Semana,Responsable,Meta,Cumplida,CNC
-OB1-EST-025,Obra 1,Hormigonado losa Piso 2,S10,Jefe Terreno,100%,No,Material
-OB1-ARQ-041,Obra 1,Tabiques Piso 1,S10,Jefe Terminaciones,100%,No,Mano de obra
-OB2-EST-018,Obra 2,Enfierradura losa Piso 1,S10,Jefe Terreno,100%,Sí,
-OB3-MOV-006,Obra 3,Relleno estructural sector norte,S10,Jefe Terreno,100%,Sí,
-OB2-INS-019,Obra 2,Pasadas sanitarias losa P1,S10,Jefe Instalaciones,100%,Sí,
-OB3-EST-009,Obra 3,Emplantillado fundaciones,S10,Jefe Terreno,100%,Sí,
+﻿ID,Actividad,Semana,Responsable,Meta,Cumplida,CNC
+EST-025,Hormigonado losa Piso 2,S10,Jefe Terreno,100%,No,Material
+ARQ-041,Tabiques Piso 1,S10,Jefe Terminaciones,100%,No,Mano de obra
+EST-028,Enfierradura muros Piso 2,S10,Jefe Terreno,100%,Sí,
+INS-047,Pasadas sanitarias losa Piso 2,S10,Jefe Instalaciones,100%,Sí,
+EST-029,Moldaje muros Piso 2,S10,Jefe Terreno,100%,Sí,
+ELE-049,Pasadas eléctricas losa Piso 2,S10,Jefe Instalaciones,100%,Sí,

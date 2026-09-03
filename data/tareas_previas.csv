@@ -1,11 +1,9 @@
-﻿ID_Habilitante,ID,Obra,Tarea_Previa,Tipo,Responsable,Fecha_Requerida,Estado
-H-001,OB1-EST-025,Obra 1,Emitir OC acero,Compra,Compras,S07,Cumplida
-H-002,OB1-EST-025,Obra 1,Confirmar fecha despacho acero,Suministro,Abastecimiento,S08,Cumplida
-H-003,OB1-EST-025,Obra 1,Recepcionar acero en obra,Suministro,Bodega,S09,Atrasada
-H-004,OB1-EST-031,Obra 1,Liberar plano estructural Rev.C,Ingeniería,Oficina Técnica,S10,En curso
-H-005,OB1-INS-052,Obra 1,Coordinar pasadas sanitarias y eléctricas,Coordinación,Coordinador MEP,S11,Pendiente
-H-006,OB2-EST-022,Obra 2,Reservar bomba de hormigón,Equipo,Producción,S10,Cumplida
-H-007,OB2-ARQ-033,Obra 2,Aprobar muestra de albañilería,Calidad,Calidad,S11,Pendiente
-H-008,OB3-EST-011,Obra 3,Emitir OC acero fundaciones,Compra,Compras,S08,Cumplida
-H-009,OB3-EST-011,Obra 3,Recepcionar acero fundaciones,Suministro,Bodega,S10,En riesgo
-H-010,OB3-EST-015,Obra 3,Liberar plano IFC pedestales,Ingeniería,Oficina Técnica,S12,Pendiente
+﻿ID_Habilitante,ID,Tarea_Previa,Tipo,Responsable,Fecha_Requerida,Estado
+H-001,EST-025,Emitir OC acero,Compra,Compras,S07,Cumplida
+H-002,EST-025,Confirmar despacho acero,Suministro,Abastecimiento,S09,Cumplida
+H-003,EST-025,Recepcionar acero en obra,Suministro,Bodega,S10,Atrasada
+H-004,EST-031,Liberar plano estructural Rev.C,Ingeniería,Oficina Técnica,S10,En curso
+H-005,INS-052,Coordinar pasadas sanitarias y eléctricas,Coordinación,Coordinador MEP,S11,Pendiente
+H-006,ELE-057,Aprobar ficha técnica bandejas,Aprobación,Oficina Técnica,S11,Pendiente
+H-007,ARQ-063,Emitir OC mortero,Compra,Compras,S11,En curso
+H-008,ARQ-071,Cerrar definición de cielos clínicos,Ingeniería,Arquitectura,S13,Pendiente

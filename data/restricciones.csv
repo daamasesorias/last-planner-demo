@@ -1,9 +1,8 @@
-﻿ID_Restriccion,ID,Obra,Restriccion,Categoria,Responsable,Fecha_Requerida,Estado,Criticidad
-R-001,OB1-EST-025,Obra 1,Recepción acero A630,Material,Abastecimiento,S09,Vencida,Alta
-R-002,OB1-EST-031,Obra 1,Plano estructural Rev.C,Ingeniería,Oficina Técnica,S10,En gestión,Alta
-R-003,OB1-ARQ-041,Obra 1,Cuadrilla subcontrato disponible,Mano de obra,Adm. Contrato,S10,En gestión,Media
-R-004,OB1-INS-052,Obra 1,Coordinación pasadas MEP,Coordinación,Coordinador MEP,S11,En gestión,Media
-R-005,OB2-EST-022,Obra 2,Confirmar bomba de hormigón,Equipo,Producción,S10,Liberada,Alta
-R-006,OB2-ARQ-033,Obra 2,Aprobación muestra albañilería,Aprobación,Calidad,S11,En gestión,Media
-R-007,OB3-EST-011,Obra 3,Recepción acero fundaciones,Material,Abastecimiento,S10,En riesgo,Alta
-R-008,OB3-EST-015,Obra 3,Plano de pedestales IFC,Ingeniería,Oficina Técnica,S12,Pendiente,Alta
+﻿ID_Restriccion,ID,Restriccion,Categoria,Responsable,Fecha_Requerida,Estado,Criticidad
+R-001,EST-025,Recepción acero A630,Material,Abastecimiento,S10,Vencida,Alta
+R-002,EST-031,Plano estructural Rev.C,Ingeniería,Oficina Técnica,S10,En gestión,Alta
+R-003,ARQ-041,Cuadrilla subcontrato disponible,Mano de obra,Adm. Contrato,S10,Liberada,Media
+R-004,INS-052,Coordinación pasadas MEP,Coordinación,Coordinador MEP,S11,En gestión,Media
+R-005,ELE-057,Aprobación bandejas eléctricas,Aprobación,Oficina Técnica,S11,Pendiente,Media
+R-006,ARQ-063,Recepción mortero,Material,Abastecimiento,S12,Pendiente,Media
+R-007,ARQ-071,Definición cielos sector clínico,Ingeniería,Arquitectura,S13,Pendiente,Alta

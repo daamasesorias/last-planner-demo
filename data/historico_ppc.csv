@@ -1,16 +1,7 @@
-﻿Semana,Obra,PPC,CNC_Principal
-S06,Obra 1,78,Ingeniería
-S07,Obra 1,82,Material
-S08,Obra 1,75,Coordinación
-S09,Obra 1,86,Mano de obra
-S10,Obra 1,67,Material
-S06,Obra 2,80,Equipo
-S07,Obra 2,85,Material
-S08,Obra 2,88,Ingeniería
-S09,Obra 2,83,Coordinación
-S10,Obra 2,100,
-S06,Obra 3,72,Equipo
-S07,Obra 3,79,Material
-S08,Obra 3,81,Equipo
-S09,Obra 3,84,Coordinación
-S10,Obra 3,100,
+﻿Semana,PPC,CNC_Principal
+S05,75,Material
+S06,80,Ingeniería
+S07,83,Coordinación
+S08,78,Equipo
+S09,86,Mano de obra
+S10,67,Material

@@ -1,5 +1,4 @@
-﻿ID,Obra,Actividad,Semana_Original,Nueva_Semana,N_Arrastres,CNC,Estado_Reprogramacion,Observacion
-OB1-EST-025,Obra 1,Hormigonado losa Piso 2,S10,S11,1,Material,No ejecutable,Recepción acero pendiente
-OB1-ARQ-041,Obra 1,Tabiques Piso 1,S10,S11,1,Mano de obra,Candidata S11,Cuadrilla confirmada para S11
-OB2-ARQ-029,Obra 2,Trazado albañilería P1,S09,S10,1,Coordinación,Cerrada,Ejecutada en S10
-OB3-MOV-004,Obra 3,Excavación sector norte,S08,S10,2,Equipo,Cerrada,Ejecutada en S10
+﻿ID,Actividad,Semana_Original,Nueva_Semana,N_Arrastres,CNC,Estado_Reprogramacion,Observacion
+EST-025,Hormigonado losa Piso 2,S10,S11,1,Material,No ejecutable,Recepción de acero aún pendiente
+ARQ-041,Tabiques Piso 1,S10,S11,1,Mano de obra,Candidata S11,Cuadrilla confirmada para S11
+MOV-014,Excavación fundaciones sector B,S08,S10,2,Equipo,Cerrada,Ejecutada en S10
