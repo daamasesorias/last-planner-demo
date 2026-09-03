@@ -1,4 +1,3 @@
-
 import streamlit as st
 import pandas as pd
 import altair as alt
@@ -53,15 +52,28 @@ if pagina=="Resumen Ejecutivo":
 elif pagina=="Plan 6 Semanas":
     st.subheader("Plan de 6 semanas")
     st.info("Cada actividad mantiene el mismo ID durante todo el ciclo Last Planner.")
-    st.dataframe(plan6,use_container_width=True,hide_index=True)
+    semanas=["S10","S11","S12","S13","S14","S15"]
+    st.caption("● Semana prevista de ejecución · Una actividad puede abarcar más de una semana.")
+    st.dataframe(
+        plan6,
+        use_container_width=True,
+        hide_index=True,
+        column_config={
+            "ID": st.column_config.TextColumn("ID", width="small"),
+            "Actividad": st.column_config.TextColumn("Actividad", width="large"),
+            "Responsable": st.column_config.TextColumn("Responsable", width="medium"),
+            **{semana: st.column_config.TextColumn(semana, width="small") for semana in semanas},
+        },
+    )
 
 elif pagina=="Restricciones Plan 6 Semanas":
     st.subheader("Restricciones asociadas a las actividades del Plan de 6 semanas")
+    st.caption("Cada restricción conserva el ID de la actividad del Lookahead a la que amenaza o impide ejecutar.")
     st.dataframe(rest,use_container_width=True,hide_index=True)
 
 elif pagina=="Tareas Previas / Habilitantes":
     st.subheader("Tareas previas / condiciones habilitantes")
-    st.caption("Acciones que deben gestionarse anticipadamente para proteger la fecha de ejecución.")
+    st.caption("Acciones que deben gestionarse anticipadamente para proteger la fecha de ejecución. Cada acción se vincula mediante el ID de su actividad del Lookahead.")
     st.dataframe(prev,use_container_width=True,hide_index=True)
 
 elif pagina=="Plan Semanal Actual":

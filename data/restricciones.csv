@@ -1,8 +1,6 @@
-﻿ID_Restriccion,ID,Restriccion,Categoria,Responsable,Fecha_Requerida,Estado,Criticidad
-R-001,EST-025,Recepción acero A630,Material,Abastecimiento,S10,Vencida,Alta
-R-002,EST-031,Plano estructural Rev.C,Ingeniería,Oficina Técnica,S10,En gestión,Alta
-R-003,ARQ-041,Cuadrilla subcontrato disponible,Mano de obra,Adm. Contrato,S10,Liberada,Media
-R-004,INS-052,Coordinación pasadas MEP,Coordinación,Coordinador MEP,S11,En gestión,Media
-R-005,ELE-057,Aprobación bandejas eléctricas,Aprobación,Oficina Técnica,S11,Pendiente,Media
-R-006,ARQ-063,Recepción mortero,Material,Abastecimiento,S12,Pendiente,Media
-R-007,ARQ-071,Definición cielos sector clínico,Ingeniería,Arquitectura,S13,Pendiente,Alta
+ID_Restriccion,ID,Restriccion,Categoria,Responsable,Fecha_Requerida,Estado,Criticidad
+R-001,EST-031,Plano estructural Rev.C pendiente,Ingeniería,Oficina Técnica,S10,En gestión,Alta
+R-002,INS-052,Coordinación pasadas MEP pendiente,Coordinación,Coordinador MEP,S11,En gestión,Media
+R-003,ELE-057,Aprobación bandejas eléctricas pendiente,Aprobación,Oficina Técnica,S11,Pendiente,Media
+R-004,ARQ-063,Mortero aún no disponible,Material,Abastecimiento,S12,Pendiente,Media
+R-005,ARQ-071,Definición cielos sector clínico pendiente,Ingeniería,Arquitectura,S13,Pendiente,Alta

@@ -1,9 +1,8 @@
-﻿ID,Actividad,Especialidad,Frente,Semana_Original,Semana_Actual,Responsable,Estado
-EST-025,Hormigonado losa Piso 2,Estructura,Piso 2,S10,S11,Jefe Terreno,Reprogramada
-EST-031,Pilares y muros Piso 3,Estructura,Piso 3,S11,S11,Jefe Terreno,Preparación
-ARQ-041,Tabiques Piso 1,Arquitectura,Piso 1,S10,S11,Jefe Terminaciones,Reprogramada
-INS-052,Red sanitaria Piso 2,Instalaciones,Piso 2,S12,S12,Jefe Instalaciones,Preparación
-ELE-057,Canalizaciones eléctricas Piso 2,Electricidad,Piso 2,S12,S12,Jefe Instalaciones,Preparación
-ARQ-063,Estucos interiores Piso 1,Arquitectura,Piso 1,S13,S13,Jefe Terminaciones,Preparación
-ARQ-071,Cielos Piso 1,Arquitectura,Piso 1,S14,S14,Jefe Terminaciones,Preparación
-INS-078,Pruebas red sanitaria Piso 1,Instalaciones,Piso 1,S15,S15,Jefe Instalaciones,Preparación
+ID,Actividad,Responsable,S10,S11,S12,S13,S14,S15
+EST-025,Hormigonado losa Piso 2,Jefe Terreno,●,,,,,
+EST-031,Pilares y muros Piso 3,Jefe Terreno,,●,●,,,
+INS-052,Red sanitaria Piso 2,Jefe Instalaciones,,,●,,,
+ELE-057,Canalizaciones eléctricas Piso 2,Jefe Instalaciones,,,●,●,,
+ARQ-063,Estucos interiores Piso 1,Jefe Terminaciones,,,,●,●,
+ARQ-071,Cielos Piso 1,Jefe Terminaciones,,,,,●,●
+INS-078,Pruebas red sanitaria Piso 1,Jefe Instalaciones,,,,,,●

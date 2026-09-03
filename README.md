@@ -1,15 +1,19 @@
-# Demo LPS - Una Obra
+# Demo LPS - Una Obra (V3)
 
-Ejemplo operacional de una sola obra para el Dashboard Digital Last Planner.
+Dashboard operacional de Last Planner System para una obra ficticia: Clínica de 3 pisos.
 
-Módulos:
-1. Resumen Ejecutivo
-2. Plan 6 Semanas
-3. Restricciones Plan 6 Semanas
-4. Tareas Previas / Habilitantes
-5. Plan Semanal Actual
-6. Arrastres y Reprogramación
-7. PPC / CNC
+## Correcciones V3
 
-Para actualizar la aplicación Streamlit existente, reemplazar app.py,
-requirements.txt y la carpeta data en el repositorio GitHub.
+- Plan de 6 semanas convertido en Lookahead visual S10–S15.
+- Restricciones vinculadas exclusivamente a actividades presentes en el Lookahead.
+- Tareas previas/habilitantes vinculadas mediante el mismo ID de actividad.
+- Sin cambios funcionales en Resumen Ejecutivo, Plan Semanal, Arrastres/Reprogramación ni PPC/CNC.
+
+## Ejecución local
+
+```text
+pip install -r requirements.txt
+streamlit run app.py
+```
+
+Para actualizar la aplicación publicada, reemplazar `app.py`, `requirements.txt` y la carpeta `data` en el repositorio conectado a Streamlit.

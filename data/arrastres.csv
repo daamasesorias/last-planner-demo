@@ -1,4 +1,4 @@
-﻿ID,Actividad,Semana_Original,Nueva_Semana,N_Arrastres,CNC,Estado_Reprogramacion,Observacion
+ID,Actividad,Semana_Original,Nueva_Semana,N_Arrastres,CNC,Estado_Reprogramacion,Observacion
 EST-025,Hormigonado losa Piso 2,S10,S11,1,Material,No ejecutable,Recepción de acero aún pendiente
 ARQ-041,Tabiques Piso 1,S10,S11,1,Mano de obra,Candidata S11,Cuadrilla confirmada para S11
 MOV-014,Excavación fundaciones sector B,S08,S10,2,Equipo,Cerrada,Ejecutada en S10
